@@ -1,0 +1,64 @@
+/*タイトル名*/
+#absolute-wrapper .planTitle {
+	border-style: solid ; 
+	border-width: 1px; 
+	padding: 15px 10px 10px 30px; 
+	color: #FFFFFF; 
+	background-color: #FE8081;
+	border-radius: 10px;
+	margin: 50px; 
+	text-align: center;
+	position: relative; 
+	top: -30px;
+	width: 900px;
+	margin-right:auto;   
+    left: 50px;
+
+} 
+
+/*教育費*/
+table.planTable{
+    border-top:1px solid #CCCCCC;
+    border-left:1px solid #CCCCCC;
+    border-collapse:collapse;
+    border-spacing:0;
+    background-color:#ffffff;
+    empty-cells:show;
+    font-size : 15px;
+    width: 800px;
+    table-layout: fixed;
+
+
+
+}
+table.planTable th{
+    border-right:1px solid #CCCCCC;
+    border-bottom:1px solid #CCCCCC;
+    color:#FFFFFF;
+    background-color:#7C7C7C;
+    background-position:left top;
+    padding:0.1em 1em;
+    text-align:center;
+
+
+}
+table.planTable td{
+    border-right:1px solid #CCCCCC;
+    border-bottom:1px solid #CCCCCC;
+    padding:0.1em 1em;
+
+}
+planTable td, th {
+    height: 25px;
+
+}
+
+  /*子供者画像位置 */
+#absolute-wrapper .childimage{
+   top: 10px;
+   left: 473px;
+
+ }
+	width:100px;
+}
+

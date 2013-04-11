@@ -1,0 +1,59 @@
+/* 教育ご計画のタイトル */
+#absolute-wrapper .paragraph.cke_focus {
+  width: 563px;
+  height: 75px;
+  position: absolute;
+  top: 320px;
+  left: 680px;
+}
+#absolute-wrapper .paragraph.cke_focus p {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+
+#absolute-wrapper .paragraph.image1{
+  height: 75px;
+  position: absolute;
+  top: 160px;
+  left: 120px;
+}
+
+/*表の一覧*/
+#fixedtable {
+  width:3400px;
+  border-collapse: collapse;
+}
+
+#fixedtable th, #fixedtable td {
+  width: 59px;
+}
+/* th */
+#fixedtable th {
+  color: #FFFFFF;
+}
+
+/* tr */
+#fixedtable tr {
+  float: left;
+}
+/* border */
+#fixedtable>thead>tr>th {
+  border:solid 1px #698787;
+}
+#fixedtable>tbody>tr>td {
+  border:solid 1px #698787;
+}
+#fixedtable>tfoot>tr>td{
+  border:solid 1px #698787;
+}
+
+
+
+div.subject {
+   text-align: left;
+   float: left;
+}
+div.date {
+   text-align: right;
+}
